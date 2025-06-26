@@ -1,4 +1,4 @@
-# **Public Report – Moirium**
+# **Public Report – Moira**
 
 ## **Sprint 1: Structuring and Planning**
 
